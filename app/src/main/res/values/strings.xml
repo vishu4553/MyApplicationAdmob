@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyApplicationAdmob</string>
+    <!--working_main-->
+    <!--<string name="admob_app_id">ca-app-pub-3399084733585375~7462068455></string>
+    <string name="banner_ad_unit_id">ca-app-pub-3399084733585375/8272587240</string>
+    <string name="interstitial_full_screen_ad">ca-app-pub-3399084733585375/5174762562</string>-->
+
+    <string name="admob_app_id">ca-app-pub-5768549380095167~3595031825></string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_full_screen_ad">ca-app-pub-5768549380095167/1443812526</string>
+
+
+
+    <!--add_example-->
+
+    <string name="title_activity_second_activiy">Interstitial</string>
+    <string name="msg_welcome">Welcome to Admob. Click on the below button to launch the Interstitial ad.</string>
+    <string name="btn_fullscreen_ad">Show Interstitial Ad</string>
+    <string name="btn_rewarded_video">Show Rewarded Video Ad</string>
+
+
+    <string name="banner_home_footer">ca-app-pub-5644335447309720/9154279297</string>
+</resources>
